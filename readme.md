@@ -1,3 +1,4 @@
+...
 LOD X
 ADD Y
 STO T2
@@ -20,3 +21,5 @@ T1	8
 T2	14
 T3	2
 T4	28
+...
+![esta es la captura de la imagen]()
