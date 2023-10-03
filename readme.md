@@ -22,4 +22,4 @@ T2	14
 T3	2
 T4	28
 ```
-![esta es la captura de la imagen](Von Neumann/Captura.PNG)
+![esta es la captura de la imagen](imagen/Captura.PNG)
